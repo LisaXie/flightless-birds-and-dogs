@@ -1,0 +1,70 @@
+body {
+  color: #6D929B;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100%;
+  width: 900px;
+  margin: auto;
+  background-color: #F5FAFA;
+}
+
+h1 {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.anchorList{
+  padding-left: 30px;
+  width: 160px;
+  margin-left: -100%;
+  float: left;
+}
+
+.anchorList a {
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+  display: block;
+  margin-bottom: 16px;
+}
+
+a:visited {
+  color: #ACD1E9;
+  text-decoration: none;
+}
+
+.wrapperRight {
+ 
+  width: 100%; 
+  float: left;
+}
+
+.texts {
+  border-left: 2px solid #6D929B;
+  padding: 0 15px 1px 15px;
+  margin-left: 160px;
+}
+
+.about {
+  display: none;
+}
+
+.experiences {
+  display: none;
+}
+
+.resume {
+  display: none;
+}
+
+a {
+  color: #ACD1E9;
+  text-decoration: none;
+}
+
+iframe {
+  border: 2px solid #F5FAFA;
+  margin: 5px 0;
+  width: 700px;
+  height: 970px;
+}
+p {
+  margin-bottom: 3px;
+}
